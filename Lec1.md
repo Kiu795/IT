@@ -2,7 +2,7 @@
 
 ![image-20250115140332596](https://cdn.jsdelivr.net/gh/kiu795/pic@main/img/image-20250115140332596.png)
 
-![image-20250115141708089](C:/Users/50327/OneDrive/%E6%A1%8C%E9%9D%A2/UofG/S2/IT/W1/notes/IT/image-20250115141708089-17369506321991.png)
+![image-20250115142315504](https://cdn.jsdelivr.net/gh/kiu795/pic@main/img/image-20250115142315504.png)
 
 
 
