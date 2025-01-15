@@ -1,6 +1,13 @@
-# 系统架构与信息架构笔记
+# Lec1系统架构与信息架构
+
+![image-20250115140332596](C:/Users/50327/AppData/Roaming/Typora/typora-user-images/image-20250115140332596.png)
+
+![image-20250115141708089](C:/Users/50327/OneDrive/%E6%A1%8C%E9%9D%A2/UofG/S2/IT/W1/notes/IT/image-20250115141708089-17369506321991.png)
+
+
 
 ## 第一部分：系统架构（System Architecture）
+
 系统架构涉及硬件和软件组件的设计与组织。其主要目标是优化系统的性能、可靠性和可扩展性。
 
 ### 1. 层次结构（Hierarchy）
