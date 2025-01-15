@@ -4,9 +4,14 @@
 
 ![image-20250115142315504](https://cdn.jsdelivr.net/gh/kiu795/pic@main/img/image-20250115142315504.png)
 
+# 一. 网络应用程序(web application)
 
+## 1. 定义
 
-## 第一部分：系统架构（System Architecture）
++ DIM (Distributed information management) system. 是一个分布式信息管理系统
++ 允许通过网络管理、共享、查找和呈现(management, sharing, finding and presentation)信息
+
+## 系统架构（System Architecture）
 
 系统架构涉及硬件和软件组件的设计与组织。其主要目标是优化系统的性能、可靠性和可扩展性。
 
